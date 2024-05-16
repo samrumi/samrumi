@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sameer(Sam) 👋</h1>
+<h1 align="center">Hi there, I'm Sameer (Sam) 👋</h1>
 <p align="center">
   🌍 <b>Software Developer</b> at Signalytic | 📍 Toronto, ON
 </p>
@@ -27,7 +27,7 @@ I'm passionate about exploring the latest and greatest ideas in the tech stack w
 
 ### 🚀 Let's Create Magic with Code
 
-The ability to bring ideas to life through technology is truly fascinating. I have always been captivated by this potential. My ambition is to build something from scratch. a real-world product that not only benefits people but also solves pressing problems. For many, code is an abstract concept; yet, for those of us who develop it, it serves as the blueprint for creating something remarkable. It is akin to magic. Let's weave this magic together through code, as we act as magicians crafting solutions that work wonders.
+The ability to bring ideas to life through technology is truly fascinating. I have always been captivated by this potential. My ambition is to build something from scratch, a real-world product that not only benefits people but also solves pressing problems. For many, code is an abstract concept; yet, for those of us who develop it, it serves as the blueprint for creating something remarkable. It is akin to magic. Let's weave this magic together through code, as we act as magicians crafting solutions that work wonders.
 
 ### 📫 How to Reach Me
 
@@ -40,6 +40,7 @@ The ability to bring ideas to life through technology is truly fascinating. I ha
 <p align="center">
   Let's build something amazing together! 🚀
 </p>
+
 
 <!---
 samrumi/samrumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
