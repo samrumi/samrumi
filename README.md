@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sameer (Sam) 👋</h1>
 <p align="center">
-  🌍 <b>Software Developer</b> at Signalytic | 📍 Toronto, ON
+  🌍 <b>Software Developer</b> | 📍 Toronto, ON
 </p>
 <p align="center">
   <a href="https://github.com/samrumi"><img src="https://img.shields.io/github/followers/samrumi?label=Follow&style=social" alt="GitHub Follow" /></a>
